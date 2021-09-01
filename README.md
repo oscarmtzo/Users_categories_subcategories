@@ -9,5 +9,6 @@ https://stackoverflow.com/questions/409784/whats-the-simplest-way-to-print-a-jav
 ### Subcategorias: [Subcategoria@5acf9800, Subcategoria@4617c264]   
 en vez de:
 ### Subcategorias: [Muebles de Jardin, Soldadura Smaw]  
+Material de apoyo:
 https://stackoverflow.com/questions/7060016/why-does-the-tostring-method-in-java-not-seem-to-work-for-an-array
 https://docs.oracle.com/javase/7/docs/api/java/lang/Object.html#toString%28%29
